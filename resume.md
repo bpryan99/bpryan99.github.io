@@ -43,7 +43,7 @@ layout: resume
 
 ## Research
 
-### **Smart Device Security Group** <span>William & Mary Department of Computer Science</span>
+### **Smart Device Security Group** <span>William & Mary Dept. of Computer Science</span>
 ### Under Dr. Adwait Nadkarni | *Oct. 2018 to Oct. 2019*
 
 - Developed a web crawler in Python using BeautifulSoup to gather links from a smart device forum
@@ -52,18 +52,22 @@ layout: resume
 
 ## Skills
 
-### Programming Languages
-- Python <span>*Proficient*</span>
-- Java <span>*Experienced*</span>
-- C and C++ <span>*Experienced*</span>
+
+- **Programming Languauges:** Python (*Proficient*), Java (*Experienced*), C and C++ (*Experienced*)
+- **Programming Tools:** Git/Gitlab/Github (*Proficient*), Linux (*Proficient*)
+- KVM and virtual machines (*Experienced)
+- Japanese language (*Proficient*)
+
+
+
 
 ## Activities
 
-### Orientation Aide <span>*William & Mary First Year Experience*</span>
+### **Orientation Aide** <span>*William & Mary First Year Experience*</span>
 ### Aug. 2018 and Aug. 2019
 - One of 150 volunteers selected out of 600 to assist 22 incoming freshmen transitioning to college life
 
-### Cypher Chair <span>*William & Mary ACM*</span>
+### **Cypher Chair** <span>*William & Mary ACM*</span>
 ### Oct. 2018 to present
 - Lead Organizer for Cypher VI, William & Mary’s 6th annual hackathon, elected by my peers
 - Drafted sponsorship documents, budgets, promotional materials, and event plans
