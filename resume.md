@@ -1,52 +1,70 @@
 ---
-title: "C'thulhu Resume"
+title: "Benjamin Ryan Resume"
 layout: resume
 ---
 
-# C'thulhu
-
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+# Benjamin Ryan
 
 ## Education
 
-### **Withering Madness University** Planet Vhoorl
+### **The College of William & Mary** 
+### *Williamsburg, VA* <span>Anticipated May 2021 | **GPA: 3.55**</span>
 
-**Major:** Public Relations
-
-**Minor:** Scale Tending
-
-## Skills
-
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
+**Majors:** Computer Science (B.S.), Japanese Studies (B.A.)
+- Pursuing technical education with a liberal arts foundation
+- Member of the inaugural graduating class of the Japanese Studies program
 
 ## Experience
 
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
+### **Cluster Engineer** <span>Lawrence Livermore National Laboratory</span> 
+### Livermore, CA | *June to Aug. 2020*
 
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
+- Populate stuff here
 
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
+### **Engineering Support Specialist** <span>Progeny Systems</span>
+### Manassas, VA | *June to Aug. 2019*
 
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
+- Created a MIDI to WAV file converter in Python without external libraries or tools that could convert any standard MIDI file to raw binary or WAV output, shift frequencies, adjust sample rate, etc.
+- Integrated my converter into the company’s existing digital signal processing suite in C
+- Updated GUI elements of an existing digital signal processing interface in Java
+- Worked collaboratively with the Acoustic Interface & Ranging team to ensure that my work was aligned with the larger team’s goals
 
-## Hobbies
+### **Warehouse Manager** <span>SCARCE</span>
+### Glen Ellyn, IL | *May to Aug. 2018*
+- Oversaw all aspects of non-profit’s donations warehouse, including inventory, storage, and outflow during peak donation season as well as conducting facility tours and assisting community events
+- Managed 145 volunteers for a group total of 1,300 work hours
+- Served 128,914 students through managing an outflow of 40,000 books and school supplies
 
-World Domination, Deep Sea Diving, Murder Most Foul
+### **Structural Engineering Intern** <span>Larson Engineering, Inc.</span>
+### Naperville, IL | *Nov. 2014 to July 2016*
+- Managed digital and physical archives for company projects, including digitization of physical projects
+- Collaborated on architectural drafting projects using AutoCAD
 
-## References
 
-Available on request
+## Research
 
-## Links
+### **Smart Device Security Group** <span>William & Mary Department of Computer Science</span>
+### Under Dr. Adwait Nadkarni | *Oct. 2018 to Oct. 2019*
 
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+- Developed a web crawler in Python using BeautifulSoup to gather links from a smart device forum
+- Researched the security of smart device networks and helped to run test communication scenarios
+
+
+## Skills
+
+### Programming Languages
+- Python <span>*Proficient*</span>
+- Java <span>*Experienced*</span>
+- C and C++ <span>*Experienced*</span>
+
+## Activities
+
+### Orientation Aide <span>*William & Mary First Year Experience*</span>
+### Aug. 2018 and Aug. 2019
+- One of 150 volunteers selected out of 600 to assist 22 incoming freshmen transitioning to college life
+
+### Cypher Chair <span>*William & Mary ACM*</span>
+### Oct. 2018 to present
+- Lead Organizer for Cypher VI, William & Mary’s 6th annual hackathon, elected by my peers
+- Drafted sponsorship documents, budgets, promotional materials, and event plans
+- Lead a team of organizers during the planning cycle to collaboratively make decisions regarding the event and to delegate responsibilities within the planning cycle, even throughout an international pandemic
